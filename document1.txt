@@ -1,5 +1,3 @@
 First text for doc1.
 
 Added to servant.
-
-Added more text.
